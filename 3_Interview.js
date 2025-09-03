@@ -1,4 +1,4 @@
-// React Developer Interview No-3
+// ReactJs Developer Interview No-3
 
 // What are the future of react ?
 // One way data binding ?
