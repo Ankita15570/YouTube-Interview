@@ -1,11 +1,7 @@
 // Interview Questions
 
 // what is the difference between let const var in javascript
-
-// Answer ==>
-
 // 1 Var:
-
 // Var has function scope , not block-scope so variables declared with var can be accessed outside of a block
 // We can variable redeclare
 // We can reassign value
@@ -25,7 +21,6 @@
 // myfunction()
 
 // 2 let :
-
 // let has block-scope , so it is only accessible within {} curley bracket
 // We can not variable redeclare
 // We can reassign value
